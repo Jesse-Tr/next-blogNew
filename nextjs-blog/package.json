@@ -18,5 +18,7 @@
     "remark": "^13.0.0",
     "remark-html": "^13.0.2",
     "save": "^2.4.0"
-  }
+  },
+
+  "script": { "vercel-build": "npm run prepare && next build" }
 }
