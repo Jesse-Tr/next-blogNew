@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hi! My name is Jesse I am a CS student at the SRJC</p>
         <p>
-          
+         
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
