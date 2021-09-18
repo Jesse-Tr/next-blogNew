@@ -20,5 +20,5 @@
     "save": "^2.4.0"
   },
 
-  "script": { "vercel-build": "npm run prepare && next build" }
+ "vercel-build": "npm run prepare && next build" 
 }
